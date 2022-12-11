@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+
+<body>
+    <div>
+        <h1>
+            Travel form for our trip
+        </h1>
+    </div>
+    <div>
+        <form action="form.php">
+            <input type="text" placeholder="Enter your name">
+            <label for="sectionida">
+                <input type="radio" value="Section a" name="label1" id="sectionida"> Section A
+                <input type="radio" value="Section b" name="label1" id="sectionidb"> Section B
+                <input type="radio" name="label1" id="sectionidc"> Section C
+            </label>
+            <br>
+            <label for="newLabel">
+                <input type="checkbox" name="Want a ferrari ?" id="69420">
+                <label for="69420">Do you like Ferrari ?</label>
+            </label>
+
+            <textarea name="explain" id="explain" cols="30" rows="10"
+                placeholder="Why do you like a ferrari ?"></textarea>
+
+            <select name="car" id="">
+                <option value="">omnni</option>
+                <option value="">ferrari</option>
+                <option value="">swift</option>
+            </select>
+        </form>
+    </div>
+</body>
+
+</html>
+<!-- backend touches data elements using the name attribute  -->
