@@ -1,0 +1,10 @@
+Color tag is used to set the color of the content inside a tag . 
+
+Most used color values in CSS : 
+1. RGB
+2. HEX Code 
+3. HSL (Hue Saturation Lightness)
+
+White hex code : #FFFFFF
+Black hex code : #000000
+
