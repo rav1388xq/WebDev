@@ -1,0 +1,54 @@
+h1 {
+    color: rgba(180, 76, 76, 0.637);
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-style:normal;
+}
+
+h2 {
+    font-size: 40px;
+    /* font-family: monospace; */
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+strong {
+    text-transform: uppercase;
+}
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.side_content {
+    align-items: center;
+}
+
+.contact {
+    text-align: center;
+    size: 25px;
+}
+
+footer {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.author {
+    font-style: italic;
+}
+
+aside {
+    background-color: rgb(228, 226, 226);
+    border-top: 5px solid aqua;
+    border-bottom: 5px solid aqua;
+}
