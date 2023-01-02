@@ -52,3 +52,24 @@ aside {
     border-top: 5px solid aqua;
     border-bottom: 5px solid aqua;
 }
+
+/* Styling links  */
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: orangered;
+    text-decoration:  underline;
+    font-weight: bold;
+}
+
+a:active {
+    background-color: green;
+    font-style: italic;
+}
