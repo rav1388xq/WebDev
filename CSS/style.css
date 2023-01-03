@@ -73,3 +73,7 @@ a:active {
     background-color: green;
     font-style: italic;
 }
+
+a {
+    color: blue !important;
+}
