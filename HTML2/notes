@@ -10,3 +10,10 @@ b> content
 c> closing tag 
 
 5. If an element has no closing tag it is omitted . 
+
+
+A padding is an empty space that is present inside an element . 
+A margin is an empty space around the element . 
+Fill area is the area that gets filled with the background color .
+
+When margins occupy the same space , they just coalesce to  form a single common padding . This is called as coalescing space . 

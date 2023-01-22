@@ -1,0 +1,27 @@
+.add_to_cart {
+    cursor: pointer;
+    background-color: black;
+    color: #fff;
+    border: none;
+}
+
+.add_to_cart:hover {
+    text-transform: uppercase;
+    background-color: red;
+    color: green;
+    text-decoration: dashed;
+}
+
+.magnus_image {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 700px;
+    margin: 0 auto; /*margin top and bottom is zero and left and right is auto*/
+}
+
+.banner {
+    width: 100%;
+}
